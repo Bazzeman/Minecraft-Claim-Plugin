@@ -5,7 +5,7 @@ In this repository I am going to develop my own plugin for Minecraft Java 1.20.2
 The plugin is in th middle of development at the moment. A stable connection with the user their database can be established and data from the plugin can be read and saved. Also some commands are ready to be used by tge plugin, such as `/claim`, `/unclaim` and `/trust`. Furthermore a solid and well built system has been programmed, which should increase development speed for writing and modifying new commands. The next step is to set flags for claims which disallow players to interact with a claim.
 
 ## Links
-- [Technical design document](https://github.com/Bazzeman/Minecraft-Claim-Plugin/edit/main/README.md)
+- [Technical design document]([https://github.com/Bazzeman/Minecraft-Claim-Plugin/edit/main/README.md](https://github.com/Bazzeman/Minecraft-Claim-Plugin/blob/main/TechnicalDesignDocument.md)
 
 ## User stories
 As a **building player**:
